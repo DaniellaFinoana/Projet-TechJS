@@ -1,0 +1,39 @@
+
+h2{
+	Width:500px;
+	font-size:50px;
+	color:grey;
+	background-color:rgb(198,240,227);
+	margin:auto;
+	padding:10px 0px 10px 0px;
+	text-align:center;
+	border-radius:10px 10px 10px 10px;
+	font-family:Gabriola;
+}
+form{
+	background-color:white;
+	width:800px;
+	margin:auto;
+	border-radius:10px 10px 10px 10px;
+}
+.Titre{
+	Width:800px;
+	font-size:24px;
+	color:grey;
+	background-color:rgb(198,240,227);
+	padding:10px 0px 10px 0px;
+	border-radius:10px 10px 10px 10px;
+	font-family:Gabriola;
+}
+.soustitre{
+	Font-size:28;
+	font-family:Franklin Gothic; 
+}
+footer{
+	background-color:rgb(198,240,227);
+	text-align:center;
+	color:grey;
+	font-size:25px;
+	font-family:Gabriola;
+	border-radius:10px 10px 10px 10px;
+}
